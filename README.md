@@ -8,7 +8,7 @@
 Actualmente me encuentro cursando la Tecnicatura Universitaria en Desarrollo de Software en la Universidad de Ezeiza, donde estoy fortaleciendo mis bases en programación, bases de datos y buenas prácticas de desarrollo.
 En paralelo, me estoy especializando en el stack MERN (MongoDB, Express, React, Node.js) a través de una formación en el ITBA, enfocándome en el desarrollo fullstack para crear aplicaciones web completas y escalables.
 
-El año pasado realicé un curso de Frontend, lo que me brindó experiencia práctica en HTML, CSS, JavaScript y React, además de conceptos de diseño responsivo y usabilidad.
+El año pasado realicé un curso de Frontend, lo que me brindó experiencia práctica en HTML, CSS y JavaScript, además de conceptos de diseño responsivo y usabilidad.
 ✨ Me motiva seguir creciendo en el ecosistema IT, participando en proyectos que me permitan aplicar lo aprendido y aportar valor con soluciones tecnológicas.
 
 - 🌱 Actualmente estoy aprendiendo
