@@ -57,9 +57,7 @@ El año pasado completé un curso de **Frontend**, lo que me brindó experiencia
 
 ## 📊 Estadísticas de GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dieram&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dieram&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dieram)](https://github.com/SrGobi/github-readme-stats)
 
 <hr>
 
